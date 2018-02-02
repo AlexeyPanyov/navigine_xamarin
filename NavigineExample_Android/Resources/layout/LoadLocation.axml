@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#14273D">
+    <RelativeLayout xmlns:custom="http://schemas.android.com/apk/res-auto"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_centerInParent="true"
+            android:orientation="vertical"
+            android:layout_height="342.0dp">
+            <EditText
+                android:id="@+id/splash_mode__locationId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:inputType="number"
+                android:text="@string/location_id" />
+            <EditText
+              android:id="@+id/splash_mode__userHash"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="16dp"
+              android:inputType="text"
+              android:text="@string/user_hash" />
+            <Button
+                android:id="@+id/splash_mode__loadButton"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginBottom="16dp"
+                android:text="@string/load"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:background="@android:color/holo_blue_dark"
+                android:layout_marginTop="20dp" />
+            <TextView
+                android:id="@+id/splash_mode__errorLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="100dp"
+                android:layout_gravity="center|bottom"
+                android:gravity="center"
+                android:textSize="16dp"
+                android:maxLines="5"
+                android:textColor="@android:color/holo_red_light" />
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

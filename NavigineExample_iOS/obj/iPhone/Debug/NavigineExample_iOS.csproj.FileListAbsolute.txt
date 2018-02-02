@@ -1,0 +1,11 @@
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/bin/iPhone/Debug/NavigineDemo.exe
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/bin/iPhone/Debug/NavigineDemo.pdb
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/bin/iPhone/Debug/IosNavigineLib.dll
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/actool/_PartialAppManifest.items
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/actool/_BundleResourceWithLogicalName.items
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/optimized/Entitlements.plist
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/optimized/
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/NavigineExample_iOS.csproj.CoreCompileInputs.cache
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/NavigineDemo.exe
+/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/NavigineDemo.pdb

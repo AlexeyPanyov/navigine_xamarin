@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Navigine Demo</string>
+  <string name="user_hash">0000-0000-0000-0000</string>
+  <string name="location_id">0</string>
+  <string name="load">Load location</string>
+</resources>

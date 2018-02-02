@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0EF1F1A8-F210-4CBC-8484-451973786EA7}|Default">
+  <MonoDevelop.Ide.ItemProperties.NavigineExample__iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavigineExample_iOS/LoadLocationController.cs">
+    <Files>
+      <File FileName="NavigineExample_iOS/LoadLocationController.cs" Line="10" Column="38" />
+      <File FileName="NavigineExample_iOS/ViewController.cs" Line="37" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

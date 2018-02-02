@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "scale": "1x",
+      "idiom": "iphone"
+    },
+    {
+      "scale": "2x",
+      "idiom": "iphone",
+      "filename": "elmBubbleArrowOrange@2x.png"
+    },
+    {
+      "scale": "3x",
+      "idiom": "iphone",
+      "filename": "elmBubbleArrowOrange@3x.png"
+    },
+    {
+      "idiom": "iphone"
+    }
+  ],
+  "properties": {
+    "template-rendering-intent": ""
+  },
+  "info": {
+    "version": 1,
+    "author": ""
+  }
+}

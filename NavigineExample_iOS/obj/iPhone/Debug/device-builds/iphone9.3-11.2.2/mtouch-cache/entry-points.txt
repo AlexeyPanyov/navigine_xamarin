@@ -1,0 +1,33 @@
+Function=xamarin_timezone_get_data
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_NavigineCore
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCBeacon
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCCategory
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCDeviceInfo
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCGlobalPoint
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCLocation
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCLocationPoint
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCRouteEvent
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCRoutePath
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCSublocation
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCVenue
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+ObjectiveCClass=OBJC_CLASS_$_NCZone
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache/Link/IosNavigineLib.dll
+Function=mono_pmip

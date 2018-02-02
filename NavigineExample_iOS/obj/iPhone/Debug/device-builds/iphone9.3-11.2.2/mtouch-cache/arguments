@@ -1,0 +1,39 @@
+# Version: 11.6.1.4 (xcode9.2: db807ec9)
+# [first argument, ignore] # --cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.4/lib/mtouch/mtouch.exe \
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-cache \
+	--dev \
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/bin/iPhone/Debug/device-builds/iphone9.3-11.2.2/NavigineDemo.app \
+	--executable \
+	NavigineDemo \
+	--debug \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	11.2 \
+	--targetver \
+	8.0 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=HttpClientHandler \
+	--abi=arm64 \
+	--symbollist \
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/obj/iPhone/Debug/device-builds/iphone9.3-11.2.2/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/Libs/IosNavigineLib.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/Libs/IosNavigineLib.dll \
+	--target-framework \
+	'Xamarin.iOS,v1.0' \
+	/Users/paveltychinin/Documents/NavigineProjects/xamarine-navigine-sdk-example/NavigineExample_iOS/bin/iPhone/Debug/NavigineDemo.exe \
